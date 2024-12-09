@@ -1,2 +1,0 @@
-# talento-tech
-Proyecto integrador
